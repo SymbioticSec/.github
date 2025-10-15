@@ -9,7 +9,7 @@ We develop tools that think, learn, and collaborate with humans to outpace ever-
 - [Symbiotic Security MCP Server](https://github.com/SymbioticSec/mcp)
 - [TerraBuck](https://github.com/SymbioticSec/terrabuck)
 
-## Learn More
+## Learn more
 
 - 🌎 [Website](https://symbioticsec.ai)
 - 📚 [Documentation](https://docs.symbioticsec.ai/)
